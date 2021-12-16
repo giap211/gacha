@@ -19,7 +19,7 @@ export default function CollectionIcons({
   useEffect(() => {
     const source = axios.CancelToken.source();
     axios
-      .get("http://localhost:3000/characters/", { cancelToken: source.token })
+      .get("characters/", { cancelToken: source.token })
       .then((response) => {
         setCharData(response.data);
       })
@@ -36,7 +36,7 @@ export default function CollectionIcons({
   useEffect(() => {
     const source = axios.CancelToken.source();
     axios
-      .get("http://localhost:3000/weapons/", { cancelToken: source.token })
+      .get("weapons/", { cancelToken: source.token })
       .then((response) => {
         setWeaponData(response.data);
       })
@@ -53,7 +53,7 @@ export default function CollectionIcons({
   useEffect(() => {
     const source = axios.CancelToken.source();
     axios
-      .get("http://localhost:3000/types/", { cancelToken: source.token })
+      .get("types/", { cancelToken: source.token })
       .then((response) => {
         setTypeData(response.data);
       })
