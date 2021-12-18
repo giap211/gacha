@@ -39,9 +39,9 @@ const HistoryTable = ({ history, resize }) => {
       <Table hover>
         <thead style={fontSize}>
           <tr>
-            <th>Item Type</th>
-            <th>Item Name</th>
-            <th>Time Received</th>
+            <th>Loại vật phẩm</th>
+            <th>Tên vật phẩm</th>
+            <th>Thời gian</th>
           </tr>
         </thead>
         <tbody>{displayHistory}</tbody>

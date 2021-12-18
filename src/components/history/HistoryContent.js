@@ -76,7 +76,7 @@ const HistoryContent = ({ location }) => {
                   : `${resize.getWidth(300)}px`,
             })}
           >
-            Select Wish Type:
+            Lựa chọn banner:
           </p>
           <HistoryDropdown
             selectedIndex={selectedIndex}

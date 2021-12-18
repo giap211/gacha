@@ -57,13 +57,13 @@ const HistoryDropdown = ({
         }}
       >
         <div className="history-wish" onClick={() => handleWishType(0)}>
-          Character Event Wish
+          Banner Nhân Vật
         </div>
         <div className="history-wish" onClick={() => handleWishType(1)}>
-          Weapon Event Wish
+        Banner Vũ Khí
         </div>
         <div className="history-wish" onClick={() => handleWishType(2)}>
-          Permanent Wish
+          Banner Thường
         </div>
       </DropdownMenu>
     </Dropdown>
