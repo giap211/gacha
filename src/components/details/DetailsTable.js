@@ -15,7 +15,7 @@ const DetailsTable = ({ banner, rateUp = [], resize }) => {
       <tr key={item + index} style={fontSize}>
         {index < Math.ceil(banner.length / 2) ? (
           <>
-            <td>{isChar(banner[index * 2]) ? "Character" : "Weapon"}</td>
+            <td>{isChar(banner[index * 2]) ? "Nhân vật" : "Vũ khí"}</td>
             <td>
               {rateUp.includes(banner[index * 2]) ? (
                 <>
