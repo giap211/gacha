@@ -30,8 +30,8 @@ const DetailsTable = ({ banner, rateUp = [], resize }) => {
               {banner[index * 2 + 1] == null
                 ? ""
                 : isChar(banner[index * 2 + 1])
-                ? "Character"
-                : "Weapon"}
+                ? "Nhân vật"
+                : "Vũ khí"}
             </td>
             <td>
               {rateUp.includes(banner[index * 2 + 1]) ? (
