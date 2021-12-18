@@ -121,7 +121,7 @@ const Main = () => {
   useEffect(() => {
     const source = axios.CancelToken.source();
     axios
-      .get("https://localhost:3000/banners/", { cancelToken: source.token })
+      .get("http://localhost:3000/banners/", { cancelToken: source.token })
       .then((response) => {
         setBannerData(response.data);
       })
@@ -138,7 +138,7 @@ const Main = () => {
   useEffect(() => {
     const source = axios.CancelToken.source();
     axios
-      .get("https://localhost:3000/characters/", { cancelToken: source.token })
+      .get("http://localhost:3000/characters/", { cancelToken: source.token })
       .then((response) => {
         setCharData(response.data);
       })
@@ -155,7 +155,7 @@ const Main = () => {
   useEffect(() => {
     const source = axios.CancelToken.source();
     axios
-      .get("https://localhost:3000/weapons/", { cancelToken: source.token })
+      .get("http://localhost:3000/weapons/", { cancelToken: source.token })
       .then((response) => {
         setWeaponData(response.data);
       })
@@ -172,7 +172,7 @@ const Main = () => {
   useEffect(() => {
     const source = axios.CancelToken.source();
     axios
-      .get("https://localhost:3000/types/", { cancelToken: source.token })
+      .get("http://localhost:3000/types/", { cancelToken: source.token })
       .then((response) => {
         setTypeData(response.data);
       })

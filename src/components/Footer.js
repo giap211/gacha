@@ -4,10 +4,7 @@ const Footer = ({ resize }) => {
   return (
     <section id="footer">
       <div id="footer-text" style={{ textShadow: "1px 0 5px black" }}>
-      ffff
-       
-      </div>
-      
+        Created by GG</div>
     </section>
   );
 };
