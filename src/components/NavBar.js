@@ -29,7 +29,7 @@ const NavBar = ({ resize }) => {
               resize.windowWidth <= 425 ? "15px" : `${resize.getWidth(24)}px`,
           }}
         >
-          WASTE MY PRIMOS
+          [TRANG CHỦ]
         </NavbarBrand>
         <Nav navbar>
           <NavItem>
@@ -46,7 +46,7 @@ const NavBar = ({ resize }) => {
                     : `${resize.getWidth(18)}px`,
               }}
             >
-              My Collection
+              [TÚI ĐỒ]
             </NavLink>
           </NavItem>
           {/* <NavItem>
