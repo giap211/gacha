@@ -12,7 +12,7 @@
         "thumb": "../assets/img/thumb/alley_hunter.webp"
     },
     {
-        "name": "Cung Amos",
+        "name": "Amos' Bow",
         "type": "Bow",
         "rarity": 5,
         "baseAttack": "46",
