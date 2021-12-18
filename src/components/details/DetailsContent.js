@@ -47,7 +47,7 @@ export default function DetailsContent({ location }) {
       variants={pageTransition}
     >
       <h1 style={{ color: "black" }}>
-        Event Wish "{json.getTitle(banner.abbr)}"
+        Sự kiện "{json.getTitle(banner.abbr)}"
       </h1>
       <DetailsFeatured
         featuredFive={banner.rateUpFive}
