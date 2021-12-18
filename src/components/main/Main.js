@@ -343,7 +343,7 @@ const Main = () => {
                   sessionStorage.setItem("skipSingle", state.skipSingle);
                 }}
               >
-                <Button context="History" resize={resize} />
+                <Button context="History1" resize={resize} />
               </Link>
               <Link
                 to={{
