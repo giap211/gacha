@@ -5,6 +5,6 @@
 - npm start
 
 # Demo
-https://gacha-five.vercel.app/history
+https://gacha-five.vercel.app
 
 
