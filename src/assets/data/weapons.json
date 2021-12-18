@@ -1,6 +1,6 @@
 [
 	{
-        "name": "Alley Hunter",
+        "name": "Thợ Săn Hẻm Tối",
         "type": "Bow",
         "rarity": 4,
         "baseAttack": "4",
@@ -12,7 +12,7 @@
         "thumb": "../assets/img/thumb/alley_hunter.webp"
     },
     {
-        "name": "Amos' Bow",
+        "name": "Cung Amos",
         "type": "Bow",
         "rarity": 5,
         "baseAttack": "46",
@@ -168,7 +168,7 @@
         "thumb": "../assets/img/thumb/favonius_sword.webp"
     },
     {
-        "name": "Favonius Warbow",
+        "name": "Cung Tây Phong",
         "type": "Bow",
         "rarity": 4,
         "baseAttack": "41",
