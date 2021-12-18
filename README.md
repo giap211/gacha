@@ -2,7 +2,7 @@
 Genshin Impact Wish Simulator
 
 # What is This?
-Greatest Genshin Impact Wish Simulator you'll ever see
+dakdadldma
 
 # How to Use
 - git clone
@@ -11,10 +11,7 @@ Greatest Genshin Impact Wish Simulator you'll ever see
 
 # Demo
 https://wastemyprimos.web.app/
+Server is probably not running so you probably won't see any images.
 
 # To Do
-- optimize for mobile
-- actual server implementation with Heroku
-- pity counter
-- portrait displays for collection
-- login feature to save sessions
+- make better
