@@ -1,0 +1,55 @@
+.table td {
+  color: rgb(163, 129, 83);
+}
+
+.details-table {
+  margin: 10px;
+}
+
+.icon-container {
+  background-color: rgb(76, 76, 76);
+  display: flex;
+  margin: 10px;
+  border: rgb(114, 110, 99) double;
+  overflow: hidden;
+}
+
+.icon-container > img {
+  filter: grayscale(100%) brightness(75%);
+  opacity: 0.2;
+}
+
+.icon-container > p {
+  position: absolute;
+}
+
+.icon-background {
+  margin: auto;
+}
+
+.icon-background[stars="5"] {
+  background: linear-gradient(rgb(147, 96, 54), rgb(185, 115, 50));
+}
+
+.icon-background[stars="4"] {
+  background: linear-gradient(rgb(105, 92, 157), rgb(137, 116, 182));
+}
+
+.icon-background > div {
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  background-size: contain;
+  display: flex;
+}
+
+.icon-background > div > img {
+  filter: drop-shadow(0 0 10px black);
+  margin-bottom: auto;
+  margin-right: auto;
+}
+
+.icons-section {
+  display: flex;
+}
