@@ -343,7 +343,7 @@ const Main = () => {
                   sessionStorage.setItem("skipSingle", state.skipSingle);
                 }}
               >
-                <Button context="History1" resize={resize} />
+                <Button context="Lịch sử" resize={resize} />
               </Link>
               <Link
                 to={{
@@ -359,7 +359,7 @@ const Main = () => {
                   sessionStorage.setItem("skipSingle", state.skipSingle);
                 }}
               >
-                <Button context="Details" resize={resize} />
+                <Button context="Chi tiết" resize={resize} />
               </Link>
               <WishButtons
                 onWish={handleWish}

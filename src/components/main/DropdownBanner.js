@@ -95,7 +95,7 @@ const DropdownBanner = ({
             lineHeight: `${resize.getWidth(36)}px`,
           }}
         >
-          Event
+          Sự Kiện
         </DropdownToggle>
         <DropdownMenu
           style={{
