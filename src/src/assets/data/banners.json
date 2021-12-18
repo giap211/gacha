@@ -1,0 +1,72 @@
+[	{
+        "abbr": "albedo",
+        "title": "Sectretum Secretorum",
+        "mainBanner": "./assets/img/banner/albedo.webp",
+        "miniBanner": "./assets/img/misc/mini-banners/albedo.webp",
+		"miniActive": "./assets/img/misc/mini-banners/albedo_active.webp" 
+	},
+    {
+        "abbr": "albedo_ei",
+        "mainBanner": "./assets/img/banner/albedo_ei.webp",
+        "miniBanner": "./assets/img/misc/mini-banners/albedo_ei.webp",
+		"miniActive": "./assets/img/misc/mini-banners/albedo_ei_active.webp" 
+	},
+    {
+        "abbr": "zhongli",
+        "title": "Gentry of Hermitage",
+        "mainBanner": "./assets/img/banner/zhongli.webp",
+        "miniBanner": "./assets/img/misc/mini-banners/zhongli.webp",
+		"miniActive": "./assets/img/misc/mini-banners/zhongli_active.webp" 
+	},
+    {
+        "abbr": "zhongli_ei",
+        "mainBanner": "./assets/img/banner/zhongli_ei.webp",
+        "miniBanner": "./assets/img/misc/mini-banners/zhongli_ei.webp",
+		"miniActive": "./assets/img/misc/mini-banners/zhongli_ei_active.webp" 
+	},
+    {
+        "abbr": "childe",
+        "title": "Farewell of Snezhnaya",
+        "mainBanner": "./assets/img/banner/childe.webp",
+        "miniBanner": "./assets/img/misc/mini-banners/childe.webp",
+    	"miniActive": "./assets/img/misc/mini-banners/childe_active.webp" 
+	},
+    {
+        "abbr": "childe_ei",
+        "mainBanner": "./assets/img/banner/childe_ei.webp",
+        "miniBanner": "./assets/img/misc/mini-banners/childe_ei.webp",
+		"miniActive": "./assets/img/misc/mini-banners/childe_ei_active.webp" 
+	},
+    {
+        "abbr": "klee",
+        "title": "Sparkling Steps",
+        "mainBanner": "./assets/img/banner/klee.webp",
+        "miniBanner": "./assets/img/misc/mini-banners/klee.webp",
+		"miniActive": "./assets/img/misc/mini-banners/klee_active.webp" 
+	},
+    {
+        "abbr": "klee_ei",
+        "mainBanner": "./assets/img/banner/klee_ei.webp",
+        "miniBanner": "./assets/img/misc/mini-banners/klee_ei.webp",
+		"miniActive": "./assets/img/misc/mini-banners/klee_ei_active.webp" 
+	},
+    {
+        "abbr": "venti",
+        "title": "Ballad in Goblets",
+        "mainBanner": "./assets/img/banner/venti.webp",
+        "miniBanner": "./assets/img/misc/mini-banners/venti.webp",
+		"miniActive": "./assets/img/misc/mini-banners/venti_active.webp" 
+	},
+    {
+        "abbr": "venti_ei",
+        "mainBanner": "./assets/img/banner/venti_ei.webp",
+        "miniBanner": "./assets/img/misc/mini-banners/venti_ei.webp",
+		"miniActive": "./assets/img/misc/mini-banners/venti_ei_active.webp" 
+	},
+    {
+        "abbr": "standard",
+        "mainBanner": "./assets/img/banner/standard.webp",
+        "miniBanner": "./assets/img/misc/mini-banners/standard.webp",
+		"miniActive": "./assets/img/misc/mini-banners/standard_active.webp" 
+	}
+]
